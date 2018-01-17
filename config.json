@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "desc": "Searchable index of Facebook pages",
+      "link": "https://specious.github.io/facebook-browser/"
+    },
+    {
+      "desc": "Facebook friends on one page",
+      "link": "https://specious.github.io/facebook-friends/"
+    },
+    {
+      "desc": "Facebook from the command line",
+      "link": "https://github.com/specious/facebook-cli"
+    },
+    {
+      "desc": "Chrome extension that shows how an image tiles",
+      "link": "https://j.mp/tileview"
+    },
+    {
+      "desc": "An easy way to keep track of upcoming meetup events",
+      "link": "https://github.com/specious/meetup-cli"
+    },
+    {
+      "desc": "A growing collection of automatic hotspot login scripts",
+      "link": "https://github.com/specious/letmein"
+    },
+    {
+      "desc": "3D-perspective carousel for jQuery / Zepto based on Cloud Carousel by Professor Cloud",
+      "link": "http://specious.github.io/cloud9carousel/species.html"
+    },
+    {
+      "desc": "Experimental rendering of the flag of the United States using CSS",
+      "link": "http://specious.github.io/css-flag-of-america/"
+    },
+    {
+      "desc": "Configurable circular menu called the Widget Spinner",
+      "link": "https://codepen.io/tknomad/pen/JhqdD"
+    },
+    {
+      "desc": "Save and manage bitlinks (shell utility)",
+      "link": "https://github.com/specious/bitly-client"
+    },
+    {
+      "desc": "A fancy command line prompt with git branch integration",
+      "link": "https://github.com/specious/bender"
+    },
+    {
+      "desc": "Programmed games that make you feel like a winner, for a company that used to be called Figure 8",
+      "link": "https://youtu.be/b4TdGvbNWI0"
+    },
+    {
+      "desc": "Made liquid chromatography sample processing automation easy and fun when I worked at LEAP Technologies",
+      "link": "https://youtu.be/NGjUZaF51Yk"
+    },
+    {
+      "desc": "Over 2,900 places created on Wikimapia",
+      "link": "http://wikimapia.org/#lang=en&lat=36.019149&lon=-78.948457&z=18&m=b&show=/user/231543/"
+    },
+    {
+      "desc": "Over 1,600 photos contributed to the Wikimedia projects",
+      "link": "https://commons.wikimedia.org/w/index.php?limit=500&user=Specious&title=Special%3AListFiles"
+    },
+    {
+      "desc": "Custom maps for Duke Nukem 3D",
+      "link": "https://keybase.pub/tknomad/files/game-data/duke3d/"
+    }
+  ]
+}

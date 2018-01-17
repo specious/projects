@@ -1,0 +1,19 @@
+doctype html
+
+mixin item(desc, link)
+  li
+    a(href=link)= desc
+
+html(lang='en')
+  head
+    meta(charset='UTF-8')
+    title Projects
+    link(rel='stylesheet', href='styles/style.css')
+  body
+    h1 Things I've brought into this world
+    #content
+      ul
+        each item in items
+          +item(item['desc'], item['link'])
+      p
+        | If you are able to assist me in <a href="https://youtu.be/6hQZ09sdcRs">disk data recovery</a>, please let me know, as there may be more items to add to this list.
