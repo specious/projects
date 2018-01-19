@@ -1,7 +1,7 @@
 doctype html
 
 mixin item(desc, link)
-  li
+  li.item
     a(href=link)= desc
 
 html(lang='en')
@@ -12,7 +12,7 @@ html(lang='en')
   body
     h1 Things I've brought into this world
     #content
-      ul
+      ul.items
         each item in items
           +item(item['desc'], item['link'])
       p
